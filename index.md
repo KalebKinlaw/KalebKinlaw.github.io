@@ -2,4 +2,4 @@
 
 
 
-<p>My name is Kaleb. I am writing thins for a CTI college class.<p>
+<p>My name is Kaleb. I am writing this for a CTI college class.<p>
